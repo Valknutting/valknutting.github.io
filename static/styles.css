@@ -26,9 +26,9 @@ html, body {
 }
 
 .main-nav {
-	padding-top: 15px;
+	padding-top: 1em;
 	text-align: left;
-	font-size: 20px;
+	font-size: 1.25em;
 	font-weight: lighter;
 }
 
@@ -47,7 +47,7 @@ html, body {
 	background-image: url("images/navBackground.jpg");
 	background-blend-mode: multiply;
 	background-size: cover;
-	padding-bottom: 30px;
+	padding-bottom: 1.55em;
 }
 
 .content-section {
@@ -55,7 +55,7 @@ html, body {
 }
 
 .container {
-	max-width: 1200px;
+	max-width: 70em;
 	margin: 0 auto;
 	padding: 0 1.5em;
 	font-size: 125%;
@@ -63,7 +63,10 @@ html, body {
 
 
 .inline-content-image {
-	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
 	height: auto;
 	width: auto\9;
 }
