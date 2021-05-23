@@ -47,7 +47,6 @@ html, body {
 	background-image: url("images/navBackground.jpg");
 	background-blend-mode: multiply;
 	background-size: cover;
-	background-position: 50% 5%;
 	padding-bottom: 1.55em;
 }
 
